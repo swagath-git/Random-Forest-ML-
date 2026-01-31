@@ -10,13 +10,13 @@
 
 # Workflow
   # Data Preprocessing
-    1. Handled missing or inconsistent data.
-    2. Encoded categorical features for model compatibility.
-    3. Split the dataset into training and testing sets for evaluation.
+   1. Handled missing or inconsistent data.
+   2. Encoded categorical features for model compatibility.
+   3. Split the dataset into training and testing sets for evaluation.
 
   # Feature Engineering
-    1. Selected relevant attributes that influence mushroom classification.
-    2. Analyzed correlations and feature importance scores.
+   1. Selected relevant attributes that influence mushroom classification.
+   2. Analyzed correlations and feature importance scores.
 
  # Model Building
   1. Implemented a Random Forest Classifier from scikit-learn.
